@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Celery stuff
+celerybeat-schedule
+celerybeat-schedule.*
+celerybeat.pid
+
+# Redis dump
+dump.rdb
